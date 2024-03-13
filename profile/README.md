@@ -1,7 +1,7 @@
 # WITS HPC Interest Group
 
 <!-- style="vertical-align: center; text-align: center; width:100%" -->
-<div style="width:100%; text-align: center">
+<div align="center">
     <span style="display: inline-block"> 
         <img width="25" src="figures/github-light.svg" style="vertical-align:middle">
         <span style=""><a href="https://github.com/Michael-Beukman/HPC-InterestGroup" style="margin: auto">Github</a></span>
