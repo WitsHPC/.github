@@ -11,8 +11,7 @@
         <span style=""><a href="https://www.instagram.com/witshpc/" style="margin: auto">Instagram</a></span>
     </span> &emsp; &emsp;
     <span>
-        <img width="15" src="figures/linkedin.svg" style="vertical-align:middle">
-        <span style=""><a href="https://www.linkedin.com/company/wits-hpc-interest-group" style="margin: auto">Linkedin</a></span>
+        <span style="">        <img width="15" src="figures/linkedin.svg" style="vertical-align:middle"><a href="https://www.linkedin.com/company/wits-hpc-interest-group" style="margin: auto">Linkedin</a></span>
     </span> &emsp; &emsp;
     <span>
         🌐
