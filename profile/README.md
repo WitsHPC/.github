@@ -16,7 +16,7 @@
     </span> &emsp; &emsp;
     <span>
         🌐
-        <span style=""><a href="https://wits-hpc.tech" style="margin: auto">Website</a></span>
+        <span style=""><a href="https://witshpc.com" style="margin: auto">Website</a></span>
     </span>
 </div>
 
