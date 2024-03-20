@@ -39,7 +39,7 @@ We've also started with hackathons and hope to have many more competitions - wit
 ## 🤝 Who We Are
 We are engineering and computer science undergraduate/postgraduate students at the University of the Witwatersrand
 
-## 🤝 Get Involved
+## 🔨 Get Involved
 If you want to come attend the talks, they are usually Wednesdays 13:15 - 14:15 in the MSL labs on West Campus, anyone can attend and we generally assume no prior knowledge.
 
 
